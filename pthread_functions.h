@@ -13,6 +13,8 @@
 
 #include <string.h>
 #include <stdint.h>
+#include <pthread.h>
+
 
 /*
  * Definitions of the function types transform, reducer, predicate
